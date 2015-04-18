@@ -8,7 +8,7 @@
 */
 
 //#include "WProgram.h" un-comment for use on older versions of Arduino IDE
-#include "EmonLib.h"
+#include "FOXFIRE_EmonLib.h"
 
 
 //--------------------------------------------------------------------------------------

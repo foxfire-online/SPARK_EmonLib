@@ -10,8 +10,8 @@
 #include "application.h"
 #include "math.h"
 
-#ifndef EmonLib_h
-#define EmonLib_h
+#ifndef FOXFIRE_EmonLib_h
+#define FOXFIRE_EmonLib_h
 
 // define theoretical vref calibration constant for use in readvcc()
 // 1100mV*1024 ADC steps http://openenergymonitor.org/emon/node/1186
