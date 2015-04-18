@@ -1,7 +1,7 @@
 {
-  "name": "EmonLib",
-  "keywords": "electricity, energy, monitoring",
-  "description": "Energy Monitoring Library",
-  "license": "GNU GPL",
-  "description": "This version is made to be compatible with the Spark firmware."
+	"name": "EmonLib",
+	"author": "Marcus Uy <marcus.uy@virtualthinking.com>",
+	"version": "0.0.0",
+	"license": "GNU GPL",
+	"description": "Energy Monitoring Library. This version is made to be compatible with the Spark firmware."
 }
