@@ -1,0 +1,7 @@
+{
+  "name": "EmonLib",
+  "keywords": "electricity, energy, monitoring",
+  "description": "Energy Monitoring Library",
+  "license": "GNU GPL",
+  "description": "This version is made to be compatible with the Spark firmware."
+}
