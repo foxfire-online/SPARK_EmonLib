@@ -1,6 +1,6 @@
 // EmonLibrary examples openenergymonitor.org, Licence GNU GPL V3
 
-#include "EmonLib.h"             // Include Emon Library
+#include "FOXFIRE_EmonLib.h"     // Include Emon Library
 EnergyMonitor emon1;             // Create an instance
 
 void setup()

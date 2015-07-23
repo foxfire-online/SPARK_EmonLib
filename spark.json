@@ -1,7 +1,7 @@
 {
-	"name": "FOXFIRE_EmonLib",
-	"author": "Marcus Uy <marcus.uy@virtualthinking.com>",
-	"version": "0.0.0",
-	"license": "GNU GPL",
-	"description": "Energy Monitoring Library. This version is made to be compatible with the Spark firmware."
+  "name": "FOXFIRE_EmonLib",
+  "author": "glynhudson <glyn.hudson@openenergymonitor.org>",
+  "license": "MIT",
+  "version": "0.0.12",
+  "description": "Arduino Energy Monitoring Library - compatible with Arduino 1.0 - Ported to Spark "
 }
